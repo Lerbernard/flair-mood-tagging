@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+mtg-jamendo-dataset/
+FLAIR_Group_4_results/
+*.zip
+*.pb
