@@ -46,7 +46,6 @@ success-criteria checks.
 |---|---|
 | `FLAIR_Group_4_notebook.ipynb` | Main notebook, fully executed: data, text and audio branches, late fusion, validation and test results. |
 | `FLAIR_Group_4_results/` | Result tables (`validation_results.csv`, per-tag CSVs, LaTeX table rows), `run_info.json` with package versions, and `musicnn_embeddings_all.npz` (all 17,982 track embeddings: `ids`, `emb`). |
-| `FLAIR_Group_4_mood_tagging.ipynb` | Earlier text-only notebook, kept for reference. |
 
 ## Running it locally
 
