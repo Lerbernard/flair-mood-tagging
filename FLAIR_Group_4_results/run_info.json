@@ -1,0 +1,35 @@
+{
+  "versions": {
+    "python": "3.12.3",
+    "numpy": "2.5.4",
+    "pandas": "3.1.1",
+    "scikit-learn": "1.6.1",
+    "joblib": "1.6.0",
+    "essentia": "2.1-beta6-dev"
+  },
+  "dataset_commit": "cafd8e20c265ed84f1e61f1c875327971f43a62f",
+  "seed": 42,
+  "uncommon_tags": [
+    "children",
+    "fast",
+    "funny",
+    "groovy",
+    "heavy",
+    "holiday",
+    "hopeful",
+    "nature",
+    "party",
+    "powerful",
+    "retro",
+    "sexy",
+    "trailer",
+    "travel"
+  ],
+  "text_validation": {
+    "PR-AUC-macro": 0.1162860065115767,
+    "PR-AUC-micro": 0.12095641173596924,
+    "ROC-AUC-macro": 0.6281347508292289,
+    "PR-AUC-macro (uncommon 14)": 0.09912963273582594,
+    "PR-AUC-macro (other 42)": 0.12200479777016027
+  }
+}
